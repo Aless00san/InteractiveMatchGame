@@ -1,0 +1,54 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="amarillo.png" />
+    <None Remove="black.png" />
+    <None Remove="blancoynegro.png" />
+    <None Remove="blue.png" />
+    <None Remove="button.png" />
+    <None Remove="celeste.png" />
+    <None Remove="crewmate.png" />
+    <None Remove="gris.png" />
+    <None Remove="hd.png" />
+    <None Remove="lima.png" />
+    <None Remove="marron.png" />
+    <None Remove="morado.png" />
+    <None Remove="naranja.png" />
+    <None Remove="rojo.png" />
+    <None Remove="sus.png" />
+    <None Remove="tronja.png" />
+    <None Remove="UFO.png" />
+    <None Remove="verde.png" />
+    <None Remove="yellow.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="amarillo.png" />
+    <Resource Include="black.png" />
+    <Resource Include="blancoynegro.png" />
+    <Resource Include="blue.png" />
+    <Resource Include="button.png" />
+    <Resource Include="celeste.png" />
+    <Resource Include="crewmate.png" />
+    <Resource Include="gris.png" />
+    <Resource Include="hd.png" />
+    <Resource Include="lima.png" />
+    <Resource Include="marron.png" />
+    <Resource Include="morado.png" />
+    <Resource Include="naranja.png" />
+    <Resource Include="rojo.png" />
+    <Resource Include="sus.png" />
+    <Resource Include="tronja.png" />
+    <Resource Include="UFO.png" />
+    <Resource Include="verde.png" />
+    <Resource Include="yellow.png" />
+  </ItemGroup>
+
+</Project>
